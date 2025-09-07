@@ -78,3 +78,7 @@ No backend or database. No authentication. Use React Next.js for the frontend an
 
 - First prompt better then make correctionsd accordingly
 
+
+
+These are the things that adjust depending on the level: focusing on word frequency, syntactic complexity, and part-of-speech
+(POS) distribution.
